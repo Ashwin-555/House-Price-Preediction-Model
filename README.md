@@ -1,4 +1,4 @@
-# PRODIGY_ML_01
+# House Price Predicition Model
 This project leverages Python libraries including NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn to develop a robust linear regression model for predicting house prices. By analyzing key property features such as square footage, number of bedrooms, and number of bathrooms, the model aims to provide accurate price estimates.
 
 Key Features and Python Libraries
